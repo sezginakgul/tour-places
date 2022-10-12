@@ -7,13 +7,13 @@
   justify-content: space-evenly;
 
   a {
-    color: $backgroundColor;
+    color: $cardNavColor;
     text-decoration: none;
     font-size: 2rem;
     padding: 1rem;
     &:hover {
       background-color: $backgroundColor;
-      color: $cardNavBgColor;
+      color: black;
     }
   }
 }
