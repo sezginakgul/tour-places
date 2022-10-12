@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/deneme/static/css/main.456484d3.css",
-    "main.js": "/deneme/static/js/main.20d4ac25.js",
-    "static/js/787.9dfa1395.chunk.js": "/deneme/static/js/787.9dfa1395.chunk.js",
-    "index.html": "/deneme/index.html",
-    "main.456484d3.css.map": "/deneme/static/css/main.456484d3.css.map",
-    "main.20d4ac25.js.map": "/deneme/static/js/main.20d4ac25.js.map",
-    "787.9dfa1395.chunk.js.map": "/deneme/static/js/787.9dfa1395.chunk.js.map"
+    "main.css": "/tour-project/static/css/main.75c79367.css",
+    "main.js": "/tour-project/static/js/main.c9c05d81.js",
+    "index.html": "/tour-project/index.html",
+    "main.75c79367.css.map": "/tour-project/static/css/main.75c79367.css.map",
+    "main.c9c05d81.js.map": "/tour-project/static/js/main.c9c05d81.js.map"
   },
   "entrypoints": [
-    "static/css/main.456484d3.css",
-    "static/js/main.20d4ac25.js"
+    "static/css/main.75c79367.css",
+    "static/js/main.c9c05d81.js"
   ]
 }
