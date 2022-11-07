@@ -1,0 +1,31 @@
+.navbar {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.list a {
+  text-decoration: none;
+  color: antiquewhite;
+  padding: 1.2rem;
+}
+
+a:hover {
+  background-color: #95d0eb;
+  font-size: 1.4rem;
+  color: black;
+}
+
+@media (max-width: 570px) {
+  .list {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+  }
+}

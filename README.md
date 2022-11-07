@@ -1,1 +1,1 @@
-# Tour Places App
+# tour-places

@@ -1,16 +1,16 @@
-import "./App.scss";
-import Header from "./components/Header/Header";
-import Main from "./components/Main/Main";
-import Navbar from "./components/Navbar/Navbar";
+import "./App.css";
+import Card from "./components/card/Card";
+import Navbar from "./components/navbar/Navbar";
+import Header from "./components/header/Header";
 
-const App = () => {
+function App() {
   return (
     <div className="App">
       <Navbar />
       <Header />
-      <Main />
+      <Card />
     </div>
   );
-};
+}
 
 export default App;
